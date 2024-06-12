@@ -1,0 +1,37 @@
+.ch-ai-d{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 840px;
+  padding: 30px;
+  background-color: #f5f5f5;
+  border-radius: 30px;
+  box-shadow: 0px 5px 10px 1px rgba(0,0, 0, 0.2);
+}
+.input-radio{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.radio{
+  display: none;
+}
+.lable-d{
+  padding: 5px 10px;
+  width: 200px;
+  margin-top: 10px;
+  text-align: center;
+  border: #3473C8 solid 3px;
+  border-radius: 20px;
+  transition: 0.3s;
+
+}
+#Doctordiagnosis0:checked ~ .lable-d0,
+#Doctordiagnosis1:checked ~ .lable-d1,
+#Doctordiagnosis2:checked ~ .lable-d2,
+#Doctordiagnosis3:checked ~ .lable-d3,
+#Doctordiagnosis4:checked ~ .lable-d4
+{
+  background-color: #3473C8;
+  color: #fff;
+}

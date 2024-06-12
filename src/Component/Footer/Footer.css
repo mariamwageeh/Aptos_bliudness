@@ -1,0 +1,44 @@
+.f-logo {
+    color: #3473C8;
+    font-family: Rubik;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 20px;
+}
+.foo-content{
+    margin-bottom: 30px;
+}
+.e-logo{
+    color: #565656;
+
+/* h5 */
+font-family: Rubik;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-top: 20px;
+}
+
+.foo-icon {
+    margin: 10px 30px;
+ 
+    color: #3473C8;
+    font-size: 40px;
+
+  
+}
+.line{
+    width: 1127.022px;
+    height: 1px;
+    background-color: #3473C8;
+    margin: auto;
+    margin-top: 20px;
+}
+.foo-c{
+padding: 20px;
+text-align: center;
+}
+

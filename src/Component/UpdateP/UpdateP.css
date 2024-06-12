@@ -1,0 +1,21 @@
+.update{
+    /* border: 2px solid blue; */
+    margin-bottom: 200px;
+    margin-top: 60px;
+    border-radius: 50px;
+}
+.form{
+    margin-left: 10px;
+    color: blue;
+}
+.login-box-upd{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 440px;
+    /* height: 800px; */
+    padding: 30px;
+    background-color: #f5f5f5;
+    border-radius: 30px;
+    box-shadow: 0px 5px 10px 1px rgba(0,0, 0, 0.2);
+}

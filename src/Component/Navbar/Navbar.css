@@ -1,0 +1,32 @@
+.pro{
+    color:  #565656 !important;
+    font-family: "Rubik", sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    }
+    .logoo{
+    color:  #3473C8 ;
+    font-family: "Rubik", sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    }
+    .register{
+        background-color: #3473C8;
+        border-radius: 5px;
+        border: 0;
+        transition: .3s;
+    
+    }
+    .register:hover {
+        opacity: 80%;
+    }
+    .nav-item{
+        padding:  5px 10px;
+ 
+    }
+
+    

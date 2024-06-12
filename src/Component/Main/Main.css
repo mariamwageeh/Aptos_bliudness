@@ -1,0 +1,97 @@
+.home-photo{
+    display: flex;
+padding: 80px;
+justify-content: flex-end;
+align-items: center;
+
+
+}
+.home-container{
+    display: flex;
+align-items: center;
+gap:  16px;
+}
+.home-content h2{
+    color:  #565656;
+    font-family: Rubik;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%;
+
+}
+.home-content p{
+    color:  #565656;
+font-family: Rubik;
+font-size: 23px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; 
+}
+.home-pnt{
+
+}
+.ptn-log{
+    display: flex;
+padding: 16px 64px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border-radius: 8px;
+border: 1px solid var(--Primary, #3473C8);
+background: var(--Light, #FFF);
+
+}
+.ptn-reg{
+    border-radius: 8px;
+background: var(--Primary, #3473C8);
+display: flex;
+padding: 16px 40px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+}
+.ptn{
+    margin: 30px;
+    transition: 0.5s;
+    
+}
+.ptn:hover{
+    opacity: 80%;
+}
+.a{
+    text-decoration: none;
+}
+.a1{
+    color: var(--Light, var(--white-100, #FFF));
+
+    /* Fonts/Button Name */
+    font-family: Rubik;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.a2{
+    color: var(--Primary, #3473C8);
+font-family: Rubik;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.triangle{
+    width: 400px;
+height: 400px;
+transform: rotate(-26.562deg);
+position: absolute;
+right: 80.976px;
+bottom: 80.976px;
+border-radius: var(--16, 16px);
+border: 2px solid #FFCA0F;
+background: var(--white-100, #FFF);
+z-index: -1;
+}
+.photo img{
+    width: 400px;
+}

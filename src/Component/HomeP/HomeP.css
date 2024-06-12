@@ -1,0 +1,40 @@
+.login-r-p{
+ 
+   min-height: 120vh;
+   font-family: "Poppins", sans-serif;
+}
+.login-box-r-p{
+   width: 230px;
+   height: 400px;
+   padding: 8px;
+   background-color: #f5f5f5;
+   border-radius: 30px;
+   box-shadow: 0px 5px 10px 1px rgba(0,0, 0, 0.2);
+   margin: 30px 50px;
+   text-align: center;
+}
+.login-header-r-p{
+   text-align: center;
+   margin: 20px 0 40px 0;
+   font-family: "Poppins", sans-serif;
+
+}
+.login-header-r-p header{
+   color: #333;
+   font-size: 30px;
+   font-weight: 600;
+}
+.login-box-r-p img{
+   width: 150px;
+   height: 200px;
+   /* padding: 10px; */
+   border-radius: 20px;
+}
+.login-box-r-p span{
+   display: block;
+   margin-top: 10px;
+}
+.name-doc {
+   color: var(--Primary, #3473C8);
+
+}

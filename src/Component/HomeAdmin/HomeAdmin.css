@@ -1,0 +1,25 @@
+.ch-ai-a{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 840px;
+    height: 490px;
+    padding: 30px;
+    background-color: #f5f5f5;
+    border-radius: 30px;
+    box-shadow: 0px 5px 10px 1px rgba(0,0, 0, 0.2);
+}
+.han-admin{
+    display: block;
+    margin: auto;
+}
+.a2-ad {
+    color: #fff;
+    font-size: 24px;
+    font-style: normal;
+    line-height: normal;
+    text-decoration: none;
+    line-height: 60px;
+    text-align: center;
+    
+}
